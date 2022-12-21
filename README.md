@@ -1,6 +1,6 @@
 <h1 align="center">Frequency Generator</h1>
 <p align="center">
-  <a href="https://tyehan.github.io/FrequencyGenerator/FrequencyGenerator.html">
+  <a href="https://tyehan.github.io/FrequencyGenerator/">
   <img src="resources\image.png" alt="🔊" width="600"/></a>
 </p>
 
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://tyehan.github.io/FrequencyGenerator/FrequencyGenerator.html">
+  <a href="https://tyehan.github.io/FrequencyGenerator/">
     <img src="https://img.shields.io/badge/View Deployment-yellow?style=for-the-badge" alt="View Deployment"/>
   </a>
 </p>
@@ -37,7 +37,7 @@
 
 ## How to Use
 
-1. **Open the Application**: Open the [`FrequencyGenerator.html`](https://tyehan.github.io/FrequencyGenerator/FrequencyGenerator.html) file in a web browser.
+1. **Open the Application**: Open the [`FrequencyGenerator.html`](https://tyehan.github.io/FrequencyGenerator/) file in a web browser.
 2. **Enter Frequency**: Use the input field to enter a frequency value (between 1 and 20000 Hz).
 3. **Play/Pause**: Click the play/pause button to start or stop the frequency.
 4. **Use Presets**: Click the preset buttons to quickly set specific frequencies.

@@ -9,8 +9,14 @@
     <img src="https://img.shields.io/badge/Author-TYehan-blue?style=for-the-badge" alt="Author: TYehan"/>
     <!-- license -->
     <a href="LICENSE">
-        <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="MIT License"/>
+        <img src="https://img.shields.io/badge/License-MIT-darkgreen?style=for-the-badge" alt="MIT License"/>
     </a>
+</p>
+
+<p align="center">
+  <a href="https://tyehan.github.io/FrequencyGenerator/FrequencyGenerator.html">
+    <img src="https://img.shields.io/badge/View Deployment-yellow?style=for-the-badge" alt="View Deployment"/>
+  </a>
 </p>
 
 <p align="center">
@@ -28,13 +34,13 @@
 - **Play/Pause**: Start and stop the frequency with a play/pause button.
 - **Solemn Frequency**: Generate frequencies for meditation and relaxation. 
 
+
 ## How to Use
 
 1. **Open the Application**: Open the [`FrequencyGenerator.html`](https://tyehan.github.io/FrequencyGenerator/FrequencyGenerator.html) file in a web browser.
-  <br>[View Deployment](https://tyehan.github.io/FrequencyGenerator/FrequencyGenerator.html)
-1. **Enter Frequency**: Use the input field to enter a frequency value (between 1 and 20000 Hz).
-2. **Play/Pause**: Click the play/pause button to start or stop the frequency.
-3. **Use Presets**: Click the preset buttons to quickly set specific frequencies.
+2. **Enter Frequency**: Use the input field to enter a frequency value (between 1 and 20000 Hz).
+3. **Play/Pause**: Click the play/pause button to start or stop the frequency.
+4. **Use Presets**: Click the preset buttons to quickly set specific frequencies.
 
 ## Files
 

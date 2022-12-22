@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://tyehan.github.io/FrequencyGenerator/">
-    <img src="https://img.shields.io/badge/View Deployment-yellow?style=for-the-badge" alt="View Deployment"/>
+    <img src="https://img.shields.io/badge/Click Here to View Deployment-yellow?style=for-the-badge" alt="View Deployment"/>
   </a>
 </p>
 

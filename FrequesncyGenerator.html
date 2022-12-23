@@ -7,7 +7,7 @@
     <script src="resources\FrequencyGenerator.js"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
     <meta http-equiv="Content-type" content="text/html; charset=utf-8">
     <title>Frequency Generator</title>
   </head>
@@ -31,10 +31,11 @@
     <br/>
 
     <h1 style="color:white;"><u>Presets</u></h1>
+    <p style="color:white;">Click on the buttons to set the frequency to the corresponding preset.</p>
+    <p style="color:#ffc400ff;">These presets are based on the Solfeggio Frequencies which believed to have healing properties.</p>
+    <br/>
     <div id="presets" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 5px;">
       <button id="water" onclick="updateFreq(newFreq = 165)">Speaker Water Remover</button>
-      <button id="sleep" onclick="updateFreq(newFreq = 3)">Sleep</button>
-      <button id="focus" onclick="updateFreq(newFreq = 14)">Focus</button>
       <button id="memry" onclick="updateFreq(newFreq = 40)">Memory Stimulation 🎧</button>
       <button id="balance" onclick="updateFreq(newFreq = 136.1)">Balance</button>
       <button id="harmony" onclick="updateFreq(newFreq = 174)">Harmony</button>
@@ -48,10 +49,8 @@
       <button id="awakening" onclick="updateFreq(newFreq = 741)">Awakening</button>
       <button id="luck" onclick="updateFreq(newFreq = 777)">Luck</button>
       <button id="intuition" onclick="updateFreq(newFreq = 852)">Intuition</button>
-      <br>
       <button id="abundance" onclick="updateFreq(newFreq = 888)">Abundance, Prosperity, Wealth</button>
       <button id="spiritual" onclick="updateFreq(newFreq = 963)">Spiritual</button>
-      <br>
     </div>
 
     <div id="frequency">

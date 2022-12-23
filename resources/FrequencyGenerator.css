@@ -1,6 +1,6 @@
 /* Created by Tharindu Yehan */
 body,button,#freqText,#audioControls{
-    font-family: 'Zen Dots', cursive;
+    font-family: "Lora", cursive, serif;
 }
 
 #presets{
@@ -91,11 +91,11 @@ input:hover{
 button{
     width:90%;
     min-height: 40px;
-    color:cyan;
+    color:white;
     background-color:#303030;
     height:30px;
     font-size:auto ;
-    border:solid #00e16fff 3px;
+    border:solid #00a6ed 3px;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -109,6 +109,7 @@ button{
 button:hover{
     border-color:#ffc400ff;
     transition:.5s;
+    color: #ffc400ff;
 }
 
 footer{

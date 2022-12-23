@@ -9,6 +9,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
     <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <link rel="icon" href="resources\icon.png" type="image/x-icon">
     <title>Frequency Generator</title>
   </head>
 
@@ -61,5 +62,16 @@
         &copy; 
         Crafted by <a href="https://tyehan.github.io/">TYehan</a></p>
     </footer>
+        <script>
+      function forceZoom() {
+        document.body.style.zoom = "75%";
+      }
+  
+      window.onload = function() {
+        forceZoom();
+        // Continuously reapply the zoom level in case the user attempts to change it.
+        setInterval(forceZoom, 1000);
+      };
+    </script>
   </body>
 </html>

@@ -1,4 +1,8 @@
 /* Created by Tharindu Yehan */
+html{
+    margin: 4.5em;
+}
+
 body,button,#freqText,#audioControls{
     font-family: "Lora", cursive, serif;
 }
@@ -19,6 +23,7 @@ h1{
 h3{
     color:white;
     text-align:center;
+    font-size: 3rem;
 }
 yl{
     color:#ffc400ff;
